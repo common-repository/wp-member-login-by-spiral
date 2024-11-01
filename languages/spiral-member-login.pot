@@ -1,0 +1,527 @@
+# Copyright (C) 2024 SPIRAL Inc.
+# This file is distributed under the GPLv2.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Member Login by SPIRAL 1.2.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-member-login-by-spiral\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-02-22T08:00:53+07:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: spiral-member-login\n"
+
+#. Plugin Name of the plugin
+#: spiral-member-login.php
+#: include/class-spiral-member-login-widget.php:32
+#: version_one/class-spiral-member-login.php:188
+#: version_one/class-spiral-member-login.php:189
+#: version_two/class-spiral-v2-member-login.php:188
+#: version_two/class-spiral-v2-member-login.php:189
+#: views/forms/toggle_version.php:13
+msgid "WP Member Login by SPIRAL"
+msgstr ""
+
+#. Description of the plugin
+#: spiral-member-login.php
+msgid "Add membership management and secure authentication by SPIRAL&reg; into your WordPress site."
+msgstr ""
+
+#. Author of the plugin
+#: spiral-member-login.php
+msgid "SPIRAL Inc."
+msgstr ""
+
+#. Author URI of the plugin
+#: spiral-member-login.php
+msgid "https://www.spiral-platform.co.jp/"
+msgstr ""
+
+#: include/class-spiral-member-login-template.php:146
+#: include/class-spiral-member-login-template.php:148
+#: include/class-spiral-member-login-template.php:213
+#: include/class-spiral-member-login-template.php:237
+#: version_one/class-spiral-member-login.php:1614
+msgid "Log In"
+msgstr ""
+
+#: include/class-spiral-member-login-template.php:220
+#: version_one/class-spiral-member-login.php:1619
+#: version_two/class-spiral-v2-member-login.php:1662
+msgid "Register"
+msgstr ""
+
+#: include/class-spiral-member-login-template.php:223
+#: version_one/class-spiral-member-login.php:1617
+#: version_two/class-spiral-v2-member-login.php:1660
+msgid "Lost Password"
+msgstr ""
+
+#: include/class-spiral-member-login-template.php:226
+#: version_one/class-spiral-member-login.php:1616
+#: version_two/class-spiral-v2-member-login.php:1659
+msgid "Profile"
+msgstr ""
+
+#: include/class-spiral-member-login-template.php:229
+#: version_one/class-spiral-member-login.php:1618
+#: version_two/class-spiral-v2-member-login.php:1661
+msgid "Reset Password"
+msgstr ""
+
+#: include/class-spiral-member-login-template.php:232
+#: version_one/class-spiral-member-login.php:1620
+#: version_two/class-spiral-v2-member-login.php:1663
+msgid "Withdrawal"
+msgstr ""
+
+#: include/class-spiral-member-login-template.php:477
+#: version_one/class-spiral-member-login.php:1615
+msgid "Log Out"
+msgstr ""
+
+#: include/class-spiral-member-login-widget.php:30
+msgid "SPIRAL Login widget for your site"
+msgstr ""
+
+#: include/class-spiral-member-login-widget.php:132
+msgid "Show When Logged In"
+msgstr ""
+
+#: include/class-spiral-member-login-widget.php:133
+msgid "Show When Logged Out"
+msgstr ""
+
+#: include/class-spiral-member-login-widget.php:134
+msgid "Show Title"
+msgstr ""
+
+#: include/class-spiral-member-login-widget.php:135
+msgid "Show Name"
+msgstr ""
+
+#: include/class-spiral-member-login-widget.php:136
+msgid "Show Register Link"
+msgstr ""
+
+#: include/class-spiral-member-login-widget.php:137
+msgid "Show Reset Password Link"
+msgstr ""
+
+#: include/class-spiral-member-login-widget.php:138
+msgid "Show Profile Link"
+msgstr ""
+
+#: include/class-spiral-member-login-widget.php:139
+msgid "Show Lost Password Link"
+msgstr ""
+
+#: include/class-spiral-member-login-widget.php:140
+msgid "Show Withdrawal Link"
+msgstr ""
+
+#: include/class-spiral-member-login-widget.php:141
+msgid "Open link with new tab"
+msgstr ""
+
+#: version_one/class-spiral-member-login.php:194
+msgid "API Agent API Key"
+msgstr ""
+
+#: version_one/class-spiral-member-login.php:195
+#: version_two/class-spiral-v2-member-login.php:196
+msgid "Authentication Setting"
+msgstr ""
+
+#: version_one/class-spiral-member-login.php:196
+msgid "Member Information Setting"
+msgstr ""
+
+#: version_one/class-spiral-member-login.php:197
+#: version_two/class-spiral-v2-member-login.php:197
+msgid "Each Link Setting"
+msgstr ""
+
+#: version_one/class-spiral-member-login.php:198
+#: version_two/class-spiral-v2-member-login.php:198
+#: version_two/class-spiral-v2-member-login.php:217
+msgid "Page URL After Logout Setting"
+msgstr ""
+
+#: version_one/class-spiral-member-login.php:199
+#: version_two/class-spiral-v2-member-login.php:200
+msgid "Relate Web no Ashiato"
+msgstr ""
+
+#: version_one/class-spiral-member-login.php:202
+#: version_two/class-spiral-v2-member-login.php:202
+msgid "API Key"
+msgstr ""
+
+#: version_one/class-spiral-member-login.php:203
+msgid "API Token Secret"
+msgstr ""
+
+#: version_one/class-spiral-member-login.php:206
+msgid "DB Title"
+msgstr ""
+
+#: version_one/class-spiral-member-login.php:207
+msgid "My Area Identification Key"
+msgstr ""
+
+#: version_one/class-spiral-member-login.php:208
+msgid "My Area Title"
+msgstr ""
+
+#: version_one/class-spiral-member-login.php:209
+#: version_two/class-spiral-v2-member-login.php:204
+msgid "Authentication Form URL"
+msgstr ""
+
+#: version_one/class-spiral-member-login.php:212
+msgid "Member List's Search Title"
+msgstr ""
+
+#: version_one/class-spiral-member-login.php:213
+msgid "Default Name Key"
+msgstr ""
+
+#: version_one/class-spiral-member-login.php:214
+msgid "ログインフォームのIDラベル"
+msgstr ""
+
+#: version_one/class-spiral-member-login.php:217
+msgid "Register URL"
+msgstr ""
+
+#: version_one/class-spiral-member-login.php:218
+msgid "Lost Password URL"
+msgstr ""
+
+#: version_one/class-spiral-member-login.php:219
+msgid "Profile Page ID"
+msgstr ""
+
+#: version_one/class-spiral-member-login.php:220
+msgid "Reset Password Page ID"
+msgstr ""
+
+#: version_one/class-spiral-member-login.php:221
+msgid "Withdrawal Page ID"
+msgstr ""
+
+#: version_one/class-spiral-member-login.php:224
+msgid "URL After Logout"
+msgstr ""
+
+#: version_one/class-spiral-member-login.php:226
+#: version_two/class-spiral-v2-member-login.php:223
+msgid "Use this Function"
+msgstr ""
+
+#: version_one/class-spiral-member-login.php:227
+#: version_two/class-spiral-v2-member-login.php:224
+msgid "Parameter Name"
+msgstr ""
+
+#: version_one/class-spiral-member-login.php:228
+#: version_two/class-spiral-v2-member-login.php:225
+msgid "Field Name"
+msgstr ""
+
+#: version_one/class-spiral-member-login.php:237
+#: version_one/class-spiral-member-login.php:254
+msgid "Nonce Failed."
+msgstr ""
+
+#: version_one/class-spiral-member-login.php:1770
+#: version_two/class-spiral-v2-member-login.php:1822
+msgid "Enter a valid API token"
+msgstr ""
+
+#: version_one/class-spiral-member-login.php:1774
+msgid "Enter a valid API token secret"
+msgstr ""
+
+#: version_two/class-spiral-v2-member-login.php:195
+msgid "API Agent"
+msgstr ""
+
+#: version_two/class-spiral-v2-member-login.php:199
+msgid "Login Setting"
+msgstr ""
+
+#: version_two/class-spiral-v2-member-login.php:205
+msgid "App ID"
+msgstr ""
+
+#: version_two/class-spiral-v2-member-login.php:206
+msgid "DB ID"
+msgstr ""
+
+#: version_two/class-spiral-v2-member-login.php:207
+msgid "Site ID"
+msgstr ""
+
+#: version_two/class-spiral-v2-member-login.php:208
+msgid "Authentication Area ID"
+msgstr ""
+
+#: version_two/class-spiral-v2-member-login.php:210
+msgid "Registration Form URL"
+msgstr ""
+
+#: version_two/class-spiral-v2-member-login.php:211
+msgid "Lost Password Page URL"
+msgstr ""
+
+#: version_two/class-spiral-v2-member-login.php:212
+msgid "Profile Page Path"
+msgstr ""
+
+#: version_two/class-spiral-v2-member-login.php:213
+msgid "Reset Password Page Path"
+msgstr ""
+
+#: version_two/class-spiral-v2-member-login.php:214
+msgid "Withdrawal Page Path"
+msgstr ""
+
+#: version_two/class-spiral-v2-member-login.php:218
+msgid "Login Form Label"
+msgstr ""
+
+#: version_two/class-spiral-v2-member-login.php:221
+msgid "Username Field"
+msgstr ""
+
+#: views/admins/admin.php:25
+#: views/admins/admin.php:63
+msgid "Your setting is "
+msgstr ""
+
+#: views/admins/admin.php:31
+#: views/admins/admin.php:70
+msgid "Cache Cleared."
+msgstr ""
+
+#: views/admins/admin.php:36
+#: views/admins/admin.php:78
+msgid "Basic Settings"
+msgstr ""
+
+#: views/admins/admin.php:39
+msgid "Advanced Settings"
+msgstr ""
+
+#: views/forms/clear_cache.php:8
+msgid "Clear login and API caches"
+msgstr ""
+
+#: views/forms/clear_cache.php:10
+#: views/forms/clear_setting.php:9
+msgid "Clear"
+msgstr ""
+
+#: views/forms/clear_setting.php:8
+msgid "Clear all SPIRAL settings"
+msgstr ""
+
+#: views/forms/login_v1.php:11
+msgid "Log in error"
+msgstr ""
+
+#: views/forms/login_v1.php:28
+#: views/forms/login_v2.php:38
+msgid "Password"
+msgstr ""
+
+#: views/forms/login_v1.php:39
+#: views/forms/login_v2.php:44
+msgid "Log in"
+msgstr ""
+
+#: views/forms/login_v2.php:11
+#: views/forms/login_v2.php:16
+#: views/forms/login_v2.php:19
+msgid "Log in Error"
+msgstr ""
+
+#: views/forms/toggle_version.php:15
+msgid "Please choose your SPIRAL version"
+msgstr ""
+
+#: views/forms/toggle_version.php:22
+msgid "Your homepage displays"
+msgstr ""
+
+#: views/forms/toggle_version.php:25
+msgid "SPIRAL ver.1"
+msgstr ""
+
+#: views/forms/toggle_version.php:30
+msgid "SPIRAL ver.2"
+msgstr ""
+
+#: views/forms/toggle_version.php:36
+msgid "Next"
+msgstr ""
+
+#: views/scripts/confirm_modal.php:11
+msgid "Yes"
+msgstr ""
+
+#: views/scripts/confirm_modal.php:12
+msgid "No"
+msgstr ""
+
+#: views/scripts/confirm_script.php:104
+msgid "All SPIRAL settings' data will be reset. Are you sure?"
+msgstr ""
+
+#: custom_blocks/version_one/app/shortcode-block/index.js:72
+#: custom_blocks/version_one/dist/bundle.js:166
+#: custom_blocks/version_two/app/shortcode-block/index.js:57
+#: custom_blocks/version_two/dist/bundle.js:1
+msgid "sml-show-template "
+msgstr ""
+
+#: custom_blocks/version_one/app/shortcode-block/index.js:73
+#: custom_blocks/version_one/dist/bundle.js:166
+#: custom_blocks/version_two/app/shortcode-block/index.js:58
+#: custom_blocks/version_two/dist/bundle.js:1
+msgid "sml show template "
+msgstr ""
+
+#: custom_blocks/version_one/app/shortcode-block/index.js:74
+#: custom_blocks/version_one/dist/bundle.js:166
+#: custom_blocks/version_two/app/shortcode-block/index.js:59
+#: custom_blocks/version_two/dist/bundle.js:1
+msgid "Login Form"
+msgstr ""
+
+#: custom_blocks/version_one/app/shortcode-block/index.js:109
+#: custom_blocks/version_one/app/shortcode-block/index.js:147
+#: custom_blocks/version_one/app/shortcode-block/index.js:186
+#: custom_blocks/version_one/app/shortcode-block/index.js:349
+#: custom_blocks/version_one/dist/bundle.js:166
+#: custom_blocks/version_two/app/shortcode-block/index.js:94
+#: custom_blocks/version_two/app/shortcode-block/index.js:132
+#: custom_blocks/version_two/app/shortcode-block/index.js:171
+#: custom_blocks/version_two/app/shortcode-block/index.js:334
+#: custom_blocks/version_two/dist/bundle.js:1
+msgid "sml-user-prop"
+msgstr ""
+
+#: custom_blocks/version_one/app/shortcode-block/index.js:110
+#: custom_blocks/version_one/app/shortcode-block/index.js:148
+#: custom_blocks/version_one/app/shortcode-block/index.js:187
+#: custom_blocks/version_one/app/shortcode-block/index.js:350
+#: custom_blocks/version_one/dist/bundle.js:166
+#: custom_blocks/version_two/app/shortcode-block/index.js:95
+#: custom_blocks/version_two/app/shortcode-block/index.js:133
+#: custom_blocks/version_two/app/shortcode-block/index.js:172
+#: custom_blocks/version_two/app/shortcode-block/index.js:335
+#: custom_blocks/version_two/dist/bundle.js:1
+msgid "sml user prop"
+msgstr ""
+
+#: custom_blocks/version_one/app/shortcode-block/index.js:111
+#: custom_blocks/version_one/dist/bundle.js:166
+#: custom_blocks/version_two/app/shortcode-block/index.js:96
+#: custom_blocks/version_two/dist/bundle.js:1
+msgid "show by logged in"
+msgstr ""
+
+#: custom_blocks/version_one/app/shortcode-block/index.js:149
+#: custom_blocks/version_one/dist/bundle.js:166
+#: custom_blocks/version_two/app/shortcode-block/index.js:134
+#: custom_blocks/version_two/dist/bundle.js:1
+msgid "hide by logged in"
+msgstr ""
+
+#: custom_blocks/version_one/app/shortcode-block/index.js:188
+#: custom_blocks/version_one/app/shortcode-block/index.js:351
+#: custom_blocks/version_one/dist/bundle.js:166
+#: custom_blocks/version_two/app/shortcode-block/index.js:173
+#: custom_blocks/version_two/app/shortcode-block/index.js:336
+#: custom_blocks/version_two/dist/bundle.js:1
+msgid "display user data"
+msgstr ""
+
+#: custom_blocks/version_one/app/shortcode-block/index.js:229
+#: custom_blocks/version_one/dist/bundle.js:166
+#: custom_blocks/version_two/app/shortcode-block/index.js:214
+#: custom_blocks/version_two/dist/bundle.js:1
+msgid "sml-link"
+msgstr ""
+
+#: custom_blocks/version_one/app/shortcode-block/index.js:230
+#: custom_blocks/version_one/dist/bundle.js:166
+#: custom_blocks/version_two/app/shortcode-block/index.js:215
+#: custom_blocks/version_two/dist/bundle.js:1
+msgid "sml link"
+msgstr ""
+
+#: custom_blocks/version_one/app/shortcode-block/index.js:231
+#: custom_blocks/version_one/dist/bundle.js:166
+#: custom_blocks/version_two/app/shortcode-block/index.js:216
+#: custom_blocks/version_two/dist/bundle.js:1
+msgid "Link with user data"
+msgstr ""
+
+#: custom_blocks/version_one/app/shortcode-block/index.js:272
+#: custom_blocks/version_one/dist/bundle.js:166
+#: custom_blocks/version_two/app/shortcode-block/index.js:257
+#: custom_blocks/version_two/dist/bundle.js:1
+msgid "sml-is-logged-mypage_title "
+msgstr ""
+
+#: custom_blocks/version_one/app/shortcode-block/index.js:273
+#: custom_blocks/version_one/dist/bundle.js:166
+#: custom_blocks/version_two/app/shortcode-block/index.js:258
+#: custom_blocks/version_two/dist/bundle.js:1
+msgid "sml is logged mypage title"
+msgstr ""
+
+#: custom_blocks/version_one/app/shortcode-block/index.js:274
+#: custom_blocks/version_one/app/shortcode-block/index.js:312
+#: custom_blocks/version_one/dist/bundle.js:166
+#: custom_blocks/version_two/app/shortcode-block/index.js:259
+#: custom_blocks/version_two/app/shortcode-block/index.js:297
+#: custom_blocks/version_two/dist/bundle.js:1
+msgid "Text Link"
+msgstr ""
+
+#: custom_blocks/version_one/app/shortcode-block/index.js:310
+#: custom_blocks/version_one/dist/bundle.js:166
+#: custom_blocks/version_two/app/shortcode-block/index.js:295
+#: custom_blocks/version_two/dist/bundle.js:1
+msgid "sml-is-logged-mypage "
+msgstr ""
+
+#: custom_blocks/version_one/app/shortcode-block/index.js:311
+#: custom_blocks/version_one/dist/bundle.js:166
+#: custom_blocks/version_two/app/shortcode-block/index.js:296
+#: custom_blocks/version_two/dist/bundle.js:1
+msgid "sml is logged mypage "
+msgstr ""
+
+#: custom_blocks/version_one/app/shortcode-block/index.js:405
+#: custom_blocks/version_one/dist/bundle.js:166
+msgid "sml-is-logged-in-rule"
+msgstr ""
+
+#: custom_blocks/version_one/app/shortcode-block/index.js:406
+#: custom_blocks/version_one/dist/bundle.js:166
+msgid "sml is logged in rule"
+msgstr ""
+
+#: custom_blocks/version_one/app/shortcode-block/index.js:407
+#: custom_blocks/version_one/dist/bundle.js:166
+msgid "Show by extract rule"
+msgstr ""
